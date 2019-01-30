@@ -1,0 +1,7 @@
+C:\Users\HRI\source\repos\HackerRankTraining\Training\bin\Debug\Training.exe.config
+C:\Users\HRI\source\repos\HackerRankTraining\Training\bin\Debug\Training.exe
+C:\Users\HRI\source\repos\HackerRankTraining\Training\bin\Debug\Training.pdb
+C:\Users\HRI\source\repos\HackerRankTraining\Training\obj\Debug\Training.csprojAssemblyReference.cache
+C:\Users\HRI\source\repos\HackerRankTraining\Training\obj\Debug\Training.csproj.CoreCompileInputs.cache
+C:\Users\HRI\source\repos\HackerRankTraining\Training\obj\Debug\Training.exe
+C:\Users\HRI\source\repos\HackerRankTraining\Training\obj\Debug\Training.pdb
