@@ -12,14 +12,26 @@ namespace TimeConversion
         {
             if (s.Substring(s.Length - 2) == "AM")
             {
-                return s.Substring(0, 9);
+                if (s.Substring(0, 2) == "12")
+                {
+                    return "00" + s.Substring(2, 6);
+                }
+                return s.Substring(0, 8);
             }
             else
             {
-                int firstNum = Int32.Parse(s.Substring(0, 2)) + 12;
-                string end = s.Substring(2, 6);
+                if (s.Substring(0, 2) == "12")
+                {
+                    return s.Substring(0, 8);
+                }
+                else
+                {
+                    int firstNum = Int32.Parse(s.Substring(0, 2)) + 12;
+                    string end = s.Substring(2, 6);
+                    return firstNum + end;
+                }
 
-                return firstNum + end;
+
             }
         }
 
@@ -27,12 +39,12 @@ namespace TimeConversion
 
         static void Main(string[] args)
         {
-            string indata = "07:05:45PM";
+            string indata = "12:45:54PM";
 
             //Console.WriteLine(indata.Substring(indata.Length - 2));
             //Console.WriteLine(indata.Substring(0, 2));
 
-            Console.WriteLine(timeConversion(indata)) ;
+            Console.WriteLine(timeConversion(indata));
 
 
         }
