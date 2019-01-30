@@ -18,7 +18,6 @@ namespace Staircase
                 Console.Write(sharps);
                 Console.WriteLine();
             }
-
         }
 
         static void Main(string[] args)

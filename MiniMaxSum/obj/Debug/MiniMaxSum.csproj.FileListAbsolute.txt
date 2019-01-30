@@ -1,0 +1,7 @@
+C:\Users\HRI\Documents\GitHub\HackerRankTraining\MiniMaxSum\bin\Debug\MiniMaxSum.exe.config
+C:\Users\HRI\Documents\GitHub\HackerRankTraining\MiniMaxSum\bin\Debug\MiniMaxSum.exe
+C:\Users\HRI\Documents\GitHub\HackerRankTraining\MiniMaxSum\bin\Debug\MiniMaxSum.pdb
+C:\Users\HRI\Documents\GitHub\HackerRankTraining\MiniMaxSum\obj\Debug\MiniMaxSum.csproj.CoreCompileInputs.cache
+C:\Users\HRI\Documents\GitHub\HackerRankTraining\MiniMaxSum\obj\Debug\MiniMaxSum.exe
+C:\Users\HRI\Documents\GitHub\HackerRankTraining\MiniMaxSum\obj\Debug\MiniMaxSum.pdb
+C:\Users\HRI\Documents\GitHub\HackerRankTraining\MiniMaxSum\obj\Debug\MiniMaxSum.csprojAssemblyReference.cache
