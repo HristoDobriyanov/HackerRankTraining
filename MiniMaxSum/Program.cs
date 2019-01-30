@@ -16,7 +16,6 @@ namespace MiniMaxSum
                 newArr[i] = (Int64)arr[i];
             }
 
-
             Console.Write(newArr.Sum() - newArr.Max());
             Console.Write(' ');
             Console.Write(newArr.Sum() - newArr.Min());
