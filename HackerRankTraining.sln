@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27703.2026
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlusMinus", "PlusMinus\PlusMinus.csproj", "{4032C64D-A0B7-478D-B191-8E1EA5CE4C5D}"
 EndProject
@@ -12,6 +12,12 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BirthdayCakeCandles", "BirthdayCakeCandles\BirthdayCakeCandles.csproj", "{8CE43E25-466C-42E0-BF34-4A56E7F96797}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeConversion", "TimeConversion\TimeConversion.csproj", "{A9E06FD8-3021-4707-8FF5-2ED3988A8FD7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GradingStudents", "GradingStudents\GradingStudents.csproj", "{588718AC-34A5-437B-8990-C3C34F477FDD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppleAndOrange", "AppleAndOrange\AppleAndOrange.csproj", "{AD93426F-C5F4-49C7-AC77-CDA8CCD7401B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kangaroo", "Kangaroo\Kangaroo.csproj", "{86115743-B57F-413F-B445-6A788C04976B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +45,18 @@ Global
 		{A9E06FD8-3021-4707-8FF5-2ED3988A8FD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A9E06FD8-3021-4707-8FF5-2ED3988A8FD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A9E06FD8-3021-4707-8FF5-2ED3988A8FD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{588718AC-34A5-437B-8990-C3C34F477FDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{588718AC-34A5-437B-8990-C3C34F477FDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{588718AC-34A5-437B-8990-C3C34F477FDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{588718AC-34A5-437B-8990-C3C34F477FDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD93426F-C5F4-49C7-AC77-CDA8CCD7401B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD93426F-C5F4-49C7-AC77-CDA8CCD7401B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD93426F-C5F4-49C7-AC77-CDA8CCD7401B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD93426F-C5F4-49C7-AC77-CDA8CCD7401B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86115743-B57F-413F-B445-6A788C04976B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86115743-B57F-413F-B445-6A788C04976B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86115743-B57F-413F-B445-6A788C04976B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86115743-B57F-413F-B445-6A788C04976B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

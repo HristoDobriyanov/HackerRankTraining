@@ -1,0 +1,11 @@
+C:\Users\HRI\Documents\GitHub\HackerRankTraining\GradingStudents\bin\Debug\netcoreapp2.2\GradingStudents.deps.json
+C:\Users\HRI\Documents\GitHub\HackerRankTraining\GradingStudents\bin\Debug\netcoreapp2.2\GradingStudents.runtimeconfig.json
+C:\Users\HRI\Documents\GitHub\HackerRankTraining\GradingStudents\bin\Debug\netcoreapp2.2\GradingStudents.runtimeconfig.dev.json
+C:\Users\HRI\Documents\GitHub\HackerRankTraining\GradingStudents\bin\Debug\netcoreapp2.2\GradingStudents.dll
+C:\Users\HRI\Documents\GitHub\HackerRankTraining\GradingStudents\bin\Debug\netcoreapp2.2\GradingStudents.pdb
+C:\Users\HRI\Documents\GitHub\HackerRankTraining\GradingStudents\obj\Debug\netcoreapp2.2\GradingStudents.csprojAssemblyReference.cache
+C:\Users\HRI\Documents\GitHub\HackerRankTraining\GradingStudents\obj\Debug\netcoreapp2.2\GradingStudents.csproj.CoreCompileInputs.cache
+C:\Users\HRI\Documents\GitHub\HackerRankTraining\GradingStudents\obj\Debug\netcoreapp2.2\GradingStudents.AssemblyInfoInputs.cache
+C:\Users\HRI\Documents\GitHub\HackerRankTraining\GradingStudents\obj\Debug\netcoreapp2.2\GradingStudents.AssemblyInfo.cs
+C:\Users\HRI\Documents\GitHub\HackerRankTraining\GradingStudents\obj\Debug\netcoreapp2.2\GradingStudents.dll
+C:\Users\HRI\Documents\GitHub\HackerRankTraining\GradingStudents\obj\Debug\netcoreapp2.2\GradingStudents.pdb

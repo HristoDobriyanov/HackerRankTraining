@@ -4,3 +4,4 @@ C:\Users\HRI\Documents\GitHub\HackerRankTraining\TimeConversion\bin\Debug\TimeCo
 C:\Users\HRI\Documents\GitHub\HackerRankTraining\TimeConversion\obj\Debug\TimeConversion.csproj.CoreCompileInputs.cache
 C:\Users\HRI\Documents\GitHub\HackerRankTraining\TimeConversion\obj\Debug\TimeConversion.exe
 C:\Users\HRI\Documents\GitHub\HackerRankTraining\TimeConversion\obj\Debug\TimeConversion.pdb
+C:\Users\HRI\Documents\GitHub\HackerRankTraining\TimeConversion\obj\Debug\TimeConversion.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\HRI\Documents\GitHub\HackerRankTraining\Kangaroo\bin\Debug\netcoreapp2.2\Kangaroo.deps.json
+C:\Users\HRI\Documents\GitHub\HackerRankTraining\Kangaroo\bin\Debug\netcoreapp2.2\Kangaroo.runtimeconfig.json
+C:\Users\HRI\Documents\GitHub\HackerRankTraining\Kangaroo\bin\Debug\netcoreapp2.2\Kangaroo.runtimeconfig.dev.json
+C:\Users\HRI\Documents\GitHub\HackerRankTraining\Kangaroo\bin\Debug\netcoreapp2.2\Kangaroo.dll
+C:\Users\HRI\Documents\GitHub\HackerRankTraining\Kangaroo\bin\Debug\netcoreapp2.2\Kangaroo.pdb
+C:\Users\HRI\Documents\GitHub\HackerRankTraining\Kangaroo\obj\Debug\netcoreapp2.2\Kangaroo.csprojAssemblyReference.cache
+C:\Users\HRI\Documents\GitHub\HackerRankTraining\Kangaroo\obj\Debug\netcoreapp2.2\Kangaroo.csproj.CoreCompileInputs.cache
+C:\Users\HRI\Documents\GitHub\HackerRankTraining\Kangaroo\obj\Debug\netcoreapp2.2\Kangaroo.AssemblyInfoInputs.cache
+C:\Users\HRI\Documents\GitHub\HackerRankTraining\Kangaroo\obj\Debug\netcoreapp2.2\Kangaroo.AssemblyInfo.cs
+C:\Users\HRI\Documents\GitHub\HackerRankTraining\Kangaroo\obj\Debug\netcoreapp2.2\Kangaroo.dll
+C:\Users\HRI\Documents\GitHub\HackerRankTraining\Kangaroo\obj\Debug\netcoreapp2.2\Kangaroo.pdb

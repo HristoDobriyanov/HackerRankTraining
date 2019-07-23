@@ -1,0 +1,11 @@
+C:\Users\HRI\Documents\GitHub\HackerRankTraining\AppleAndOrange\bin\Debug\netcoreapp2.2\AppleAndOrange.deps.json
+C:\Users\HRI\Documents\GitHub\HackerRankTraining\AppleAndOrange\bin\Debug\netcoreapp2.2\AppleAndOrange.runtimeconfig.json
+C:\Users\HRI\Documents\GitHub\HackerRankTraining\AppleAndOrange\bin\Debug\netcoreapp2.2\AppleAndOrange.runtimeconfig.dev.json
+C:\Users\HRI\Documents\GitHub\HackerRankTraining\AppleAndOrange\bin\Debug\netcoreapp2.2\AppleAndOrange.dll
+C:\Users\HRI\Documents\GitHub\HackerRankTraining\AppleAndOrange\bin\Debug\netcoreapp2.2\AppleAndOrange.pdb
+C:\Users\HRI\Documents\GitHub\HackerRankTraining\AppleAndOrange\obj\Debug\netcoreapp2.2\AppleAndOrange.csprojAssemblyReference.cache
+C:\Users\HRI\Documents\GitHub\HackerRankTraining\AppleAndOrange\obj\Debug\netcoreapp2.2\AppleAndOrange.csproj.CoreCompileInputs.cache
+C:\Users\HRI\Documents\GitHub\HackerRankTraining\AppleAndOrange\obj\Debug\netcoreapp2.2\AppleAndOrange.AssemblyInfoInputs.cache
+C:\Users\HRI\Documents\GitHub\HackerRankTraining\AppleAndOrange\obj\Debug\netcoreapp2.2\AppleAndOrange.AssemblyInfo.cs
+C:\Users\HRI\Documents\GitHub\HackerRankTraining\AppleAndOrange\obj\Debug\netcoreapp2.2\AppleAndOrange.dll
+C:\Users\HRI\Documents\GitHub\HackerRankTraining\AppleAndOrange\obj\Debug\netcoreapp2.2\AppleAndOrange.pdb
